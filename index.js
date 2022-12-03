@@ -12,7 +12,7 @@ const profileCards = [];
 const welcome = () => {
     console.log(`
 
-Welcome to the team generator! ✨
+Welcome to the team generator!
     
 Please build your team.`);
 }
