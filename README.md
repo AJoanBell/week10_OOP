@@ -147,7 +147,13 @@ npm run test
 
 Screenshot of Terminal commands: https://github.com/AJoanBell/week10_Object-Oriented-Program-Team-Profile-Generator/blob/main/assets/images/Screenshot_terminal_commands.png
 
+<img width="1330" alt="Screenshot_terminal_commands" src="https://user-images.githubusercontent.com/36496885/205469271-49d64495-7e80-4724-a834-41a5266c1548.png">
+
+
 Screenshot of Team Profile html generated: https://github.com/AJoanBell/week10_Object-Oriented-Program-Team-Profile-Generator/blob/main/assets/images/Screenshot_Profile_Generated.png
+
+<img width="2272" alt="Screenshot_Profile_Generated" src="https://user-images.githubusercontent.com/36496885/205469276-2a7a8318-84be-4518-9eb5-ee6d2b5f17be.png">
+
 
 
 ## Resources:
