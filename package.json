@@ -1,5 +1,5 @@
 {
-  "name": "team-profile-generator",
+  "name": "Object-Oriented-Program-Team-Profile-Generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hayleyarodgers/team-profile-generator.git"
+    "url": "git+https://github.com/AJoanBell/week10_Object-Oriented-Program-Team-Profile-Generator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hayleyarodgers/team-profile-generator/issues"
+    "url": "https://github.com/AJoanBell/week10_Object-Oriented-Program-Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/hayleyarodgers/team-profile-generator#readme",
+  "homepage": "https://github.com/AJoanBell/week10_Object-Oriented-Program-Team-Profile-Generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^28.1.3"
